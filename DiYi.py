@@ -29,7 +29,8 @@ name="Chenming"
 print(name)
 print(name[5])
 print(len(name))
+print(name+'zhenbang')
 print(name[0:8])
-print((name+"\n")*5)
+print((name+"\n")*2)
 
 
